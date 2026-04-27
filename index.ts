@@ -1,3 +1,8 @@
+// Purpose of TypeScript is to validate TYPES in Javascript ahead of time.
+// Behaives like a compiled language
+// Takes a TS file and transpile into Vanilla Javascript 
+// Known as an Explicit Type
+
 // Basic Types
 let age: number = 29;
 let course: string = "Typescript";
