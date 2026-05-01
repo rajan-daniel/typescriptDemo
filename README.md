@@ -6,7 +6,7 @@ A lightweight personal reference for common TypeScript patterns, types, and util
 
 ## 🚀 Purpose
 
-TypeScript is powerful, but remembering all the syntax (especially for more advanced types) can be annoying.
+TypeScript is powerful, but remembering all the syntax (especially for more advanced types) can be documented.
 
 This repo serves as:
 - A **cheatsheet** for common patterns  
